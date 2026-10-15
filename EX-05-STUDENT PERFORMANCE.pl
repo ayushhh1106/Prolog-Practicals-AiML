@@ -1,9 +1,9 @@
 %student marks
 
-marks(ayushi,99).
-marks(devika,98).
-marks(bharti,13).
-marks(aparna,55).
+marks(ayush,99).
+marks(abhigyan,98).
+marks(aditya,13).
+marks(ayuxh,55).
 
 
 %rules
